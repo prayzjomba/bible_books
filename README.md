@@ -1,2 +1,2 @@
-# Bible Books (for devs in json format)
-## Multi languages
+# Bible Books 
+### Multi languages in json format
